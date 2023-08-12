@@ -1,2 +1,3 @@
 # kombi-framework
-A framework tailored for Skyrim combat enthusiasts
+
+A powerful MCO framework tailored for Skyrim combat enthusiasts. Leveraging OpenAnimationReplacer, Stances, Hkanno, and PayloadInterpreter, Kombi empowers you to craft personalized combo chains, infuse captivating visual enhancements, and refine pre-existing MCO animations. Unleash your creativity and forge an unparalleled moveset that reflects your distinct style within the Skyrim universe.
